@@ -1,8 +1,8 @@
-\# Analysis of Ranking Data in Quantitative Genetics
+# Analysis of Ranking Data in Quantitative Genetics
 
 
 
-\*\*Author:\*\* Hugo Dorado-Betancourt
+**Author:** Hugo Dorado-Betancourt
 
 
 
@@ -14,23 +14,23 @@ The repository includes code for:
 
 
 
-\- Data processing and cleaning
+- Data processing and cleaning
 
-\- Simulation studies
+- Simulation studies
 
-\- Statistical model implementation and validation
+- Statistical model implementation and validation
 
-\- Analysis of empirical datasets
+- Analysis of empirical datasets
 
-\- Generation of results and figures
-
-
-
-This is a \*\*research working repository\*\*, so it contains scripts developed at different stages of the project and reflects the analytical workflow used during the research. Large files, including some datasets and generated outputs, have been excluded from the repository.
+- Generation of results and figures
 
 
 
-\## Data
+This is a **research working repository**, so it contains scripts developed at different stages of the project and reflects the analytical workflow used during the research. Large files, including some datasets and generated outputs, have been excluded from the repository.
+
+
+
+## Data
 
 
 
@@ -38,11 +38,11 @@ The raw data used in the study are publicly available on Zenodo:
 
 
 
-\[Dataset on Zenodo](https://zenodo.org/records/17112492)
+[Dataset on Zenodo](https://zenodo.org/records/17112492)
 
 
 
-\## Publication
+## Publication
 
 
 
@@ -50,9 +50,9 @@ The statistical framework and results are described in the peer-reviewed article
 
 
 
-\*\*Dorado-Betancourt, H., et al. (2026). \_Estimating on-farm genotypic performance and variability using ranking data\_. Theoretical and Applied Genetics.\*\*
+**Dorado-Betancourt, H., et al. (2026). _Estimating on-farm genotypic performance and variability using ranking data_. Theoretical and Applied Genetics.**
 
 
 
-\[Read the publication](https://rdcu.be/fAxK0)
+[Read the publication](https://rdcu.be/fAxK0)
 
